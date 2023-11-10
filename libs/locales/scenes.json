@@ -1,0 +1,10 @@
+{
+  "scenes": {
+    "reg": {
+      "welcome": "reg_welcome",
+      "age": "reg_age"
+    },
+    "change_language": "change_language",
+    "home": "home"
+  }
+}

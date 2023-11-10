@@ -1,0 +1,12 @@
+{
+  "home": "$t(phrases.no-reg-home, {{ \"username\": \"{username}\" }})\n<b>Name:</b> {firstName}\n<b>Age:</b> {age}",
+  "no-reg-home": "Hello <code>{username}</code>. Tap to button for registration",
+  "reg": {
+    "welcome": "Welcome to registration\nWhat is your name?",
+    "age": "Input your age\nAccept only numbers"
+  },
+  "check_pm": "Sended in pm",
+  "set-normal-age": "Take norm age",
+  "instructions": "Its instructions\nThis is any text message",
+  "select_language": "Select prefer language"
+}
